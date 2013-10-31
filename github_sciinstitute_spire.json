@@ -1,5 +1,6 @@
 {
-  "URL"   : "http://github.com/SCIInstitute/spire",
-  "title" : "Spire"
-  "desc"  : "A lightweight wrapper over desktop OpenGL and OpenGL ES."
+  "URL"       : "http://github.com/SCIInstitute/spire",
+  "title"     : "Spire"
+  "desc"      : "A lightweight wrapper over desktop OpenGL and OpenGL ES.",
+  "category"  : "OpenGL"
 }
