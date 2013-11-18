@@ -1,0 +1,8 @@
+{
+  "url"         : "http://github.com/iauns/cpm-mongoc",
+  "title"       : "MongoDB C Driver",
+  "desc"        : "MongoDB's C Driver.",
+  "category"    : "databases",
+  "oneVersion"  : true,
+  "external"    : "http://github.com/mongodb/mongo-c-driver"
+}

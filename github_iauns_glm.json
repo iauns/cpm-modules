@@ -1,0 +1,8 @@
+{
+  "url"         : "http://github.com/iauns/cpm-glm",
+  "title"       : "G-Truc's GLM",
+  "desc"        : "A vector math library for OpenGL.",
+  "category"    : "OpenGL",
+  "oneVersion"  : true,
+  "external"    : "http://github.com/g-truc/glm"
+}
