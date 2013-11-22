@@ -3,6 +3,6 @@
   "title"       : "Standalone Optional",
   "desc"        : "C++11 - A standalone optional class.",
   "category"    : "library",
-  "oneVersion"  : true,
-  "external"    : "https://github.com/hostilefork/CopyMoveConstrainedOptional"
+  "external"    : true,
+  "externalURL" : "https://github.com/hostilefork/CopyMoveConstrainedOptional"
 }

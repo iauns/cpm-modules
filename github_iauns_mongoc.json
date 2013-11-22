@@ -3,6 +3,6 @@
   "title"       : "MongoDB C Driver",
   "desc"        : "MongoDB's C Driver.",
   "category"    : "databases",
-  "oneVersion"  : true,
-  "external"    : "http://github.com/mongodb/mongo-c-driver"
+  "external"    : true,
+  "externalURL" : "http://github.com/mongodb/mongo-c-driver"
 }

@@ -3,6 +3,6 @@
   "title"       : "G-Truc's GLM",
   "desc"        : "A vector math library emulating OpenGL's GLSL.",
   "category"    : "OpenGL",
-  "oneVersion"  : true,
-  "external"    : "http://github.com/g-truc/glm"
+  "external"    : true,
+  "externalURL" : "http://github.com/g-truc/glm"
 }
