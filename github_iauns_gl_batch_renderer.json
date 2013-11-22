@@ -1,0 +1,6 @@
+{
+  "url"         : "http://github.com/iauns/cpm-gl-batch-context",
+  "title"       : "OpenGL Context Creator",
+  "desc"        : "C++03 - Generates OpenGL contexts across multiple platforms.",
+  "category"    : "OpenGL"
+}
