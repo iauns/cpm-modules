@@ -1,7 +1,7 @@
 {
   "url"         : "http://github.com/iauns/cpm-glm",
   "title"       : "G-Truc's GLM",
-  "desc"        : "A vector math library for OpenGL.",
+  "desc"        : "A vector math library emulating OpenGL's GLSL.",
   "category"    : "OpenGL",
   "oneVersion"  : true,
   "external"    : "http://github.com/g-truc/glm"
