@@ -1,6 +1,6 @@
 {
   "url"       : "http://github.com/SCIInstitute/spire",
   "title"     : "Spire",
-  "desc"      : "C++11 - A slim wrapper around desktop OpenGL and OpenGL ES.",
+  "desc"      : "C++11 - A wrapper around desktop OpenGL and OpenGL ES.",
   "category"  : "OpenGL"
 }
