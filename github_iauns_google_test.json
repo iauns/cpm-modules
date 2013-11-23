@@ -1,0 +1,8 @@
+{
+  "url"         : "http://github.com/iauns/cpm-google-test",
+  "title"       : "Google Test",
+  "desc"        : "Google unit testing software.",
+  "category"    : "testing",
+  "external"    : true,
+  "externalURL" : "http://code.google.com/p/googletest"
+}
