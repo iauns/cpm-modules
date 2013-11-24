@@ -1,0 +1,8 @@
+{
+  "url"         : "http://github.com/iauns/cpm-mongoc",
+  "title"       : "PNG encoder/decoder",
+  "desc"        : "Lodepng standalone (no zlib/libpng) PNG library.",
+  "category"    : "images",
+  "external"    : true,
+  "externalURL" : "http://lodev.org/lodepng"
+}
