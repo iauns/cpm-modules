@@ -1,6 +1,6 @@
 {
   "url"         : "http://github.com/iauns/cpm-gl-platform",
-  "title"       : "OpenGL Platform Headers",
-  "desc"        : "C++03 - Includes OpenGL platform headers.",
+  "title"       : "Platform Headers for Opengl",
+  "desc"        : "C++03 - Includes OpenGL platform specific headers.",
   "category"    : "OpenGL"
 }
