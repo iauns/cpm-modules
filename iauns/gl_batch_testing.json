@@ -1,0 +1,6 @@
+{
+  "url"         : "http://github.com/iauns/cpm-gl-batch-testing",
+  "title"       : "OpenGL Batch Testing",
+  "desc"        : "C++11 - Utilities for testing offscreen batch rendering.",
+  "category"    : "OpenGL"
+}

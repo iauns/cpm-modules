@@ -1,6 +1,0 @@
-{
-  "url"         : "http://github.com/iauns/cpm-gl-batch-env",
-  "title"       : "OpenGL Batch Environment",
-  "desc"        : "C++03 - An OpenGL offscreen batch rendering environment.",
-  "category"    : "OpenGL"
-}
