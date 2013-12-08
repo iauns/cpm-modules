@@ -1,0 +1,6 @@
+{
+  "url"         : "http://github.com/iauns/cpm-arc-ball",
+  "title"       : "Arc Ball Transformer",
+  "desc"        : "C++03 - Quaternion arc ball 3D transform manipulator.",
+  "category"    : "3D"
+}
