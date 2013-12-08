@@ -1,7 +1,7 @@
 {
   "url"         : "https://github.com/iauns/cpm-optional.git",
   "title"       : "Standalone Optional",
-  "desc"        : "C++11 - A standalone optional class.",
+  "desc"        : "C++11 - Standalone optional class.",
   "category"    : "library",
   "external"    : true,
   "externalURL" : "https://github.com/hostilefork/CopyMoveConstrainedOptional"
