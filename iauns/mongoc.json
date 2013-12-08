@@ -1,8 +1,8 @@
 {
-  "url"         : "http://github.com/iauns/cpm-mongoc",
-  "title"       : "MongoDB C Driver",
-  "desc"        : "C99 - MongoDB's C Driver.",
+  "url"         : "http://github.com/iauns/cpm-mongoc-legacy",
+  "title"       : "Legacy MongoDB C Driver",
+  "desc"        : "C99 - MongoDB's Legacy C Driver.",
   "category"    : "databases",
   "external"    : true,
-  "externalURL" : "http://github.com/mongodb/mongo-c-driver"
+  "externalURL" : "http://github.com/mongodb/mongo-c-driver-legacy"
 }
