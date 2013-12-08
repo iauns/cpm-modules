@@ -1,0 +1,6 @@
+{
+  "url"         : "http://github.com/iauns/cpm-arc-ball",
+  "title"       : "GLM AABB",
+  "desc"        : "C++03 - Axis aligned bounding box built on GLM.",
+  "category"    : "3D"
+}
