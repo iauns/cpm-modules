@@ -1,0 +1,8 @@
+{
+  "url"         : "http://github.com/iauns/cpm-glfw",
+  "title"       : "GLFW",
+  "desc"        : "C++03 - Create windows with OpenGL contexts.",
+  "category"    : "OpenGL",
+  "external"    : true,
+  "externalURL" : "http://www.glfw.org"
+}
