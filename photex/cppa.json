@@ -1,0 +1,8 @@
+{
+  "url"         : "https://github.com/photex/cpm-cppa.git",
+  "title"       : "libcppa",
+  "desc"        : "C++11 - Actor System library.",
+  "category"    : "library",
+  "external"    : true,
+  "externalURL" : "https://github.com/Neverlord/libcppa"
+}
