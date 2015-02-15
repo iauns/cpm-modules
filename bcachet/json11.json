@@ -1,0 +1,8 @@
+{
+  "url"         : "http://github.com/bcachet/cpm-json11",
+  "title"       : "JSON11 library for C++11",
+  "desc"        : "Tiny JSON library for C++11, providing JSON parsing and serialization",
+  "category"    : "serialization",
+  "external"    : true,
+  "externalURL" : "https://github.com/dropbox/json11"
+}
