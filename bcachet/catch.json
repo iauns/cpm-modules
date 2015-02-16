@@ -1,0 +1,8 @@
+{
+  "url"         : "http://github.com/bcachet/cpm-catch",
+  "title"       : "Catch unit-tests framework",
+  "desc"        : "C++, header only, framework for unit-tests, TDD and BDD",
+  "category"    : "testing",
+  "external"    : true,
+  "externalURL" : "https://github.com/philsquared/Catch"
+}
